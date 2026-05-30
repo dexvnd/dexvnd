@@ -1,16 +1,16 @@
-## Hi there 👋
+```
+    ____                 
+   / __ \___  _  ___   __
+  / / / / _ \| |/_/ | / /
+ / /_/ /  __/>  < | |/ / 
+/_____/\___/_/|_| |___/  
 
-<!--
-**dexvnd/dexvnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Self taught reverse engineer from Sweden.
 
-Here are some ideas to get you started:
+Past experiences:
+- Antibot reverse engineering
+- Automation tool development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+Interested in working together? Reach out on [Telegram](https://t.me/dexv0) and or visit my website at [dexv.lol](https://dexv.lol/).
