@@ -6,6 +6,9 @@
 /_____/\___/_/|_| |___/  
 
 ```
+```
+pip install dexvstuff
+```
 Self taught reverse engineer from Sweden.
 
 Past experiences:
